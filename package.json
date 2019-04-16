@@ -1,0 +1,15 @@
+{
+  "name": "apitool",
+  "version": "1.0.0",
+  "description": "Simple tool for downloading from API where they are either rate limited or restricted for getting ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glenn Neiger",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
